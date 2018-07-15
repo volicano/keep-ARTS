@@ -1,3 +1,3 @@
 ARTS 打卡记录
-
-<a href="https://github.com/renpeng00/keep-ARTS/blob/master/ARTS_20180714~20180720.md%C3%B8">20180714~20180720 打卡</a>
+20180714~20180720 打卡<br/>
+<a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_189.md">leetcode_189</a>
