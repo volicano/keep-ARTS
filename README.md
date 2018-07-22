@@ -1,5 +1,7 @@
 ARTS 打卡记录<br/>
 20180714~20180720 打卡<br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_189.md">leetcode_189</a><br/>
-<a href="https://github.com/renpeng00/my_blog/blob/master/redis_command.md">Tip redis常用命令</a>
+<a href="https://github.com/renpeng00/my_blog/blob/master/redis_command.md">tip redis常用命令</a>
+<a href="https://dev.mysql.com/doc/refman/8.0/en/connecting-disconnecting.html">review MySqlS文档</a>
+<a href="#">share 配置中心</a>
 
