@@ -20,6 +20,6 @@ ARTS 打卡记录<br/><br/>
 
 20180813~20180819 打卡<br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_48.md">leetcode_48</a><br/>
-
+<a href="https://laravel.com/docs/5.6/lifecycle#focus-on-service-providers">review laravel Request Lifecycle</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/go%20%E5%BC%80%E5%8F%91%E7%9A%84%E9%81%87%E5%88%B0%E5%90%8C%E5%8C%85%E4%B8%8B%E6%96%B9%E6%B3%95%E4%BA%92%E7%9B%B8%E8%B0%83%E7%94%A8%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98.md">share go 开发的遇到同包下方法互相调用报错问题</a><br/><br/>
 
