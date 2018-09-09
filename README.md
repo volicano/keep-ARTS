@@ -34,4 +34,4 @@ ARTS 打卡记录<br/><br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_122.md">leetcode_122</a><br/>
 <a href="https://laravel.com/docs/5.7/container">review laravel Service Container</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/nginx_simple_config.md">tip nginx 配置遇到的问题</a><br/>
-<a href="https://github.com/renpeng00/my_blog/blob/master/laravel_app_init.md">laravel 学习之 初始化过程源码学习</a><br/>
+<a href="https://github.com/renpeng00/my_blog/blob/master/laravel_app_init.md">share laravel 学习之 初始化过程源码学习</a><br/>
