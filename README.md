@@ -29,3 +29,9 @@ ARTS 打卡记录<br/><br/>
 <a href="https://laravel.com/docs/5.7/container">review laravel Service Container</a><br/>
 <a href="https://www.cnblogs.com/sirlipeng/p/4792062.html">tip 对齐值</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/phplearn.md">share php 学习图谱</a><br/>
+
+20180903~20180909 打卡<br/>
+<a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_122.md">leetcode_122</a><br/>
+<a href="https://laravel.com/docs/5.7/container">review laravel Service Container</a><br/>
+<a href="https://www.cnblogs.com/sirlipeng/p/4792062.html">tip 对齐值</a><br/>
+<a href="https://github.com/renpeng00/my_blog/blob/master/laravel_app_init.md">laravel 学习之 初始化过程源码学习</a><br/>
