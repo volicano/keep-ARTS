@@ -39,4 +39,5 @@ ARTS 打卡记录<br/><br/>
 
 20180910~20180916 打卡<br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/LeetCode_66.md">leetcode_66 加一</a><br/>
+<a href="https://golang.org/doc/effective_go.html#mixed-caps">review Effective Go (Introduction Formatting Commentary Names)</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/technologe_sharing.md">share 技术分享思维导图</a><br/>
