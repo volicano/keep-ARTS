@@ -45,3 +45,4 @@ ARTS 打卡记录<br/><br/>
 20180917~20180923 打卡<br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_283.md">leetcode_283 移动零</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/go_for_tip.md">share golang 使用for时容易犯的小错误</a><br/>
+<a href="https://github.com/renpeng00/my_blog/blob/master/go_interface_notice.md">tip golang interface 为nil的问题</a><br/>
