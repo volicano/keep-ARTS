@@ -42,6 +42,6 @@ ARTS 打卡记录<br/><br/>
 <a href="https://golang.org/doc/effective_go.html#mixed-caps">review Effective Go (Introduction Formatting Commentary Names)</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/technologe_sharing.md">share 技术分享思维导图</a><br/>
 
-20180917~20180922 打卡<br/>
+20180917~20180923 打卡<br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_283.md">leetcode_283 移动零</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/go_for_tip.md">share golang 使用for时容易犯的小错误</a><br/>
