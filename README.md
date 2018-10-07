@@ -49,3 +49,4 @@ ARTS 打卡记录<br/><br/>
 
 20180924~20180930 打卡（补）<br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_350.md">leetcode_350 两个数组的交集 II</a><br/>
+<a href="https://github.com/renpeng00/my_blog/blob/master/profile-bash_profile.md">tip 关于linux和Mac 的 各种profile系统文件和source命令的技巧学习</a><br/>
