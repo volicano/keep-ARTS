@@ -52,3 +52,5 @@ ARTS 打卡记录<br/><br/>
 <a href="https://golang.org/doc/effective_go.html">review Effective Go (Semicolons Control structures) </a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/profile-bash_profile.md">tip 关于linux和Mac 的 各种profile系统文件和source命令的技巧学习</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/go_tools.md">share golang 内嵌工具学习</a><br/>
+
+20181001~20181007 偷懒放假一次 <br/>
