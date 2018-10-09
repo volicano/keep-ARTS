@@ -54,3 +54,6 @@ ARTS 打卡记录<br/><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/go_tools.md">share golang 内嵌工具学习</a><br/>
 
 20181001~20181007 偷懒放假一次 <br/>
+
+20181008~20181014 打卡 <br/>
+<a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_344.md">leetcode_344 反转字符串</a><br/>
