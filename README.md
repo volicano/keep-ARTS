@@ -57,3 +57,4 @@ ARTS 打卡记录<br/><br/>
 
 20181008~20181014 打卡 <br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_344.md">leetcode_344 反转字符串</a><br/>
+<a href="https://github.com/renpeng00/my_blog/blob/master/go_tip_001.md">tip golang 知识总结0</a><br/>
