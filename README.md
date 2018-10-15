@@ -57,6 +57,7 @@ ARTS 打卡记录<br/><br/>
 
 20181008~20181014 打卡 <br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_344.md">leetcode_344 反转字符串</a><br/>
+<a href="https://www.bilibili.com/video/av17323270/?p=2">English 名词性从句 </a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/go_tip_001.md">tip golang 知识总结0</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/algorithm_array_and_linklist.md">share 数组和链表算法学习总结</a><br/>
 
