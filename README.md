@@ -62,5 +62,6 @@ ARTS 打卡记录<br/><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/algorithm_array_and_linklist.md">share 数组和链表算法学习总结</a><br/>
 
 20181015~20181021 打卡 <br/>
+<a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_142.md">leetcode_142 环形链表 II</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/go_inner_func_var.md">tip go 闭包在循环中的问题</a><br/>
 
