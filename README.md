@@ -67,4 +67,8 @@ review 开始读Outliers: The Story of Success Malcolm Gladwell<br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/go_inner_func_var.md">tip go 闭包在循环中的问题</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/good_go_programm.md">share go关于并发的各种模式代码总结</a><br/>
 
+20181022~20181028 打卡 <br/>
+<a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_7.md">leetcode_7 反转整数</a><br/>
+
+
 
