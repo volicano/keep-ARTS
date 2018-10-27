@@ -70,6 +70,7 @@ review 开始读Outliers: The Story of Success Malcolm Gladwell<br/>
 20181022~20181028 打卡 <br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_7.md">leetcode_7 反转整数</a><br/>
 <a href="https://github.com/renpeng00/my_blog/blob/master/go_defer.md">tip go defer注意的问题</a><br/>
+<a href="https://github.com/renpeng00/my_blog/blob/master/go_defer.md">share go defer注意的问题</a><br/>
 
 
 
