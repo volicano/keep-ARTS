@@ -75,7 +75,7 @@ review 开始读Outliers: The Story of Success Malcolm Gladwell<br/>
 
 20181029~20181104 打卡 <br/>
 <a href="https://github.com/renpeng00/leetcode/blob/master/leetcode_20.md">leetcode_20 有效的括号</a><br/>
-English 冠词学习<br/>
+[English 冠词-泛指](https://github.com/renpeng00/English/blob/master/article_refer.md)  
 补码 反码 源码 以及各个类型取值范围 [解析](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html) <br/>
 [share go 并发学习总结](https://github.com/renpeng00/my_blog/blob/master/go_sync.md)<br/>
 
